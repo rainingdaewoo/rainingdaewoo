@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 
-</a> &nbsp </p>
+</a>  </p>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7f35d966-5dcb-4a93-bafe-4c3fe3004b92" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--
 **rainingdaewoo/rainingdaewoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
