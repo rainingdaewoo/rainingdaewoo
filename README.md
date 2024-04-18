@@ -7,12 +7,13 @@
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=grey"/></a> &nbsp
 
 
-
-
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 
 
-![aws-certified-solutions-architect-associate](https://github.com/rainingdaewoo/rainingdaewoo/assets/78574530/cdf2d81e-56f7-419e-8fcb-15ae6ef73146)
+![aws-certified-solutions-architect-associate (3)](https://github.com/rainingdaewoo/rainingdaewoo/assets/78574530/4b925cf0-55a6-40f0-a4c7-9268bf37a1e0)
+![aws-certified-cloud-practitioner (2)](https://github.com/rainingdaewoo/rainingdaewoo/assets/78574530/dc34963b-538b-4474-be74-8d32e2862757)
+
+
 
 
 <!--
