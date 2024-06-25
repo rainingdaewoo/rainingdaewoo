@@ -5,9 +5,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=grey"/></a> &nbsp
-<img src="[https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=grey](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)"/></a> &nbsp
-
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 ![aws-certified-solutions-architect-associate (3)](https://github.com/rainingdaewoo/rainingdaewoo/assets/78574530/4b925cf0-55a6-40f0-a4c7-9268bf37a1e0)
